@@ -1,16 +1,11 @@
 # The Basics of Google Cloud Compute
 
-In this you have 4 lab
-[1. Create a Virtual Machine](#create-a-virtual-machine)
-[2. Creating a Persistent Disk](#creating-a-persistent-disk)
-[3. Host a Web App on Google Cloud Using Compute Engine](#host-a-web-app-on-google-cloud-using-compute-engine)
-[4. The Basics of Google Cloud Compute: Challenge Lab](#the-basics-of-google-cloud-compute-challenge-lab)
+Title -> Contain the course link. <br>
+Link -> Contain the how to complete that course video on Youtube.
 
-
-## Create a Virtual Machine
-
-## Creating a Persistent Disk
-
-## Host a Web App on Google Cloud Using Compute Engine
-
-## The Basics of Google Cloud Compute: Challenge Lab
+| S.NO. | Title | Link |
+|-----|-----|-----|
+| 1| [Create a Virtual Machine (GSP001)](https://www.skills.google/course_templates/754/labs/597504) | [Link](https://www.youtube.com/watch?v=etYLmipfSm8) |
+| 2 | [Creating a Persistent Disk (GSP004)](https://www.skills.google/course_templates/754/labs/597505)| [Link](https://www.youtube.com/watch?v=8FhBhXZhKQs)|
+|3 | [Host a Web App on Google Cloud Using Compute Engine (GSP662)](https://www.skills.google/course_templates/754/labs/597506)| [Link](https://www.youtube.com/watch?v=KbAiGsQki94) |
+|4| [The Basics of Google Cloud Compute: Challenge Lab (ARC120)](https://www.skills.google/course_templates/754/labs/597507) | [Link](https://www.youtube.com/watch?v=fKuhnqynJPI) |

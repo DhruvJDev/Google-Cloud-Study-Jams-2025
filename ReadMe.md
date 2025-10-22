@@ -10,7 +10,7 @@ Link -> Contain the how to complete that course.
 |S. No. | Title (Skill Badge)       | Link                         |
 |:----- | :----------- | :--------------------------: |
 | 01| [A Tour of Google Cloud Hands-on Labs](https://www.cloudskillsboost.google/focuses/2794?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=56263099) | [Link](01_A_Tour_of_Google_Cloud_Hands-on_Labs/) |
-| 02| [The Basics of Google Cloud Compute](https://www.cloudskillsboost.google/course_templates/754?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
+| 02| [The Basics of Google Cloud Compute](https://www.cloudskillsboost.google/course_templates/754?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](02_The_Basics_of_Google_Cloud_Compute) |
 | 03| [Get Started with Cloud Storage](https://www.cloudskillsboost.google/course_templates/725?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
 | 04| [Get Started with Pub/Sub](https://www.cloudskillsboost.google/course_templates/728?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
 | 05| [Get Started with API Gateway](https://www.cloudskillsboost.google/course_templates/662?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
