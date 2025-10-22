@@ -1,5 +1,8 @@
 # The Basics of Google Cloud Compute
 
+| In this you have 4 Labs
+
+
 Title -> Contain the course link. <br>
 Link -> Contain the how to complete that course video on Youtube.
 
