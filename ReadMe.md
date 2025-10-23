@@ -13,7 +13,7 @@ Link -> Contain the how to complete that course.
 | 02| [The Basics of Google Cloud Compute](https://www.cloudskillsboost.google/course_templates/754?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](02_The_Basics_of_Google_Cloud_Compute/) |
 | 03| [Get Started with Cloud Storage](https://www.cloudskillsboost.google/course_templates/725?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](03_Get–Started_with_Cloud_Storage/) |
 | 04| [Get Started with Pub/Sub](https://www.cloudskillsboost.google/course_templates/728?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](04_Get_Started_with_Pub-Sub/) |
-| 05| [Get Started with API Gateway](https://www.cloudskillsboost.google/course_templates/662?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
+| 05| [Get Started with API Gateway](https://www.cloudskillsboost.google/course_templates/662?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](05_Get_Started_with_API_Gateway/) |
 | 06| [Get Started with Looker](https://www.cloudskillsboost.google/course_templates/647?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
 | 07| [Get Started with Dataplex](https://www.cloudskillsboost.google/course_templates/726?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
 | 08| [Get Started with Google Workspace Tools](https://www.cloudskillsboost.google/course_templates/676?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
