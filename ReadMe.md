@@ -14,10 +14,10 @@ Link -> Contain the how to complete that course.
 | 03| [Get Started with Cloud Storage](https://www.cloudskillsboost.google/course_templates/725?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](03%20Get%20Started%20with%20Cloud%20Storage/) |
 | 04| [Get Started with Pub/Sub](https://www.cloudskillsboost.google/course_templates/728?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](04%20Get%20Started%20with%20Pub-Sub/) |
 | 05| [Get Started with API Gateway](https://www.cloudskillsboost.google/course_templates/662?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](05%20Get%20Started%20with%20API%20Gateway/) |
-| 06| [Get Started with Looker](https://www.cloudskillsboost.google/course_templates/647?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
-| 07| [Get Started with Dataplex](https://www.cloudskillsboost.google/course_templates/726?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
-| 08| [Get Started with Google Workspace Tools](https://www.cloudskillsboost.google/course_templates/676?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
-| 09| [App Building with Appsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRB406SGkUY4Q5jRqYBSZqRGfsK6MsESzdtbHaoXnYT3isC2CcBFrloYq3gcO61Gbw58qSw9RB4FXoM/pubhtml?gid=0&single=true) | Link |
+| 06| [Get Started with Looker](https://www.cloudskillsboost.google/course_templates/647?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](06%20Get%20Started%20with%20Looker/) |
+| 07| [Get Started with Dataplex](https://www.cloudskillsboost.google/course_templates/726?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](07%20Get%20Started%20with%20Dataplex/) |
+| 08| [Get Started with Google Workspace Tools](https://www.cloudskillsboost.google/course_templates/676?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](08%20Get%20Started%20with%20Google%20Workspace%20Tools/Readme.md) |
+| 09| [App Building with Appsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRB406SGkUY4Q5jRqYBSZqRGfsK6MsESzdtbHaoXnYT3isC2CcBFrloYq3gcO61Gbw58qSw9RB4FXoM/pubhtml?gid=0&single=true) | [Link](09%20App%20Building%20with%20Appsheet/) |
 | 10| [Develop with Apps Script and AppSheet](https://www.cloudskillsboost.google/course_templates/715) | Link |
 | 11| [Build a Website on Google Cloud](https://www.cloudskillsboost.google/course_templates/638) | Link |
 | 12| [Set Up a Google Cloud Network](https://www.cloudskillsboost.google/course_templates/641) | Link |
