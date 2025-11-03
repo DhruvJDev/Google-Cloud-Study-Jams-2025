@@ -1,4 +1,4 @@
-# Get Started with Pub/Sub
+# [Get Started with Pub/Sub](https://www.cloudskillsboost.google/course_templates/728?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24)
 
 | In this you have 3 Labs
 

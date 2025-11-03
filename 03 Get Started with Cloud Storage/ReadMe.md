@@ -1,4 +1,4 @@
-# Get Started with Cloud Storage
+# [Get Started with Cloud Storage](https://www.cloudskillsboost.google/course_templates/725?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24)
 
 | In this you have 4 Labs
 
