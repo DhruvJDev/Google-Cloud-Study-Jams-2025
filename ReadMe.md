@@ -7,7 +7,7 @@ Title -> Contain the course link. <br>
 Link -> Contain the how to complete that course.
 
 
-|S. No. | Title (Skill Badge)       | Link                         |
+|S. No. | Title (Skill Badge) | Link |
 |:----- | :----------- | :--------------------------: |
 | 01| [A Tour of Google Cloud Hands-on Labs](https://www.cloudskillsboost.google/focuses/2794?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=56263099) | [Link](01%20A%20Tour%20of%20Google%20Cloud%20Hands-on%20Labs/) |
 | 02| [The Basics of Google Cloud Compute](https://www.cloudskillsboost.google/course_templates/754?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](02%20The%20Basics%20of%20Google%20Cloud%20Compute/) |
@@ -18,15 +18,15 @@ Link -> Contain the how to complete that course.
 | 07| [Get Started with Dataplex](https://www.cloudskillsboost.google/course_templates/726?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](07%20Get%20Started%20with%20Dataplex/) |
 | 08| [Get Started with Google Workspace Tools](https://www.cloudskillsboost.google/course_templates/676?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](08%20Get%20Started%20with%20Google%20Workspace%20Tools/Readme.md) |
 | 09| [App Building with Appsheet](https://www.skills.google/course_templates/635) | [Link](09%20App%20Building%20with%20Appsheet/) |
-| 10| [Develop with Apps Script and AppSheet](https://www.cloudskillsboost.google/course_templates/715) | Link |
-| 11| [Build a Website on Google Cloud](https://www.cloudskillsboost.google/course_templates/638) | Link |
-| 12| [Set Up a Google Cloud Network](https://www.cloudskillsboost.google/course_templates/641) | Link |
-| 13| [Store, Process, and Manage Data on Google Cloud - Console](https://www.cloudskillsboost.google/course_templates/658) | Link |
-| 14| [Cloud Functions: 3 Ways](https://www.cloudskillsboost.google/course_templates/696?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
-| 15| [App Engine: 3 Ways](https://www.cloudskillsboost.google/course_templates/671?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
-| 16| [Cloud Speech API: 3 Ways](https://www.cloudskillsboost.google/course_templates/700?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
-| 17| [Monitoring in Google Cloud](https://www.cloudskillsboost.google/course_templates/747?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
-| 18| [Analyze Speech and Language with Google APIs](https://www.cloudskillsboost.google/course_templates/634) | Link |
-| 19| [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/course_templates/976?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | Link |
-| 20| [Develop GenAI Apps with Gemini and Streamlit](https://www.cloudskillsboost.google/course_templates/978) | Link |
+| 10| [Develop with Apps Script and AppSheet](https://www.cloudskillsboost.google/course_templates/715) | [Link](10%20Develop%20with%20Apps%20Script%20and%20AppSheet/) |
+| 11| [Build a Website on Google Cloud](https://www.cloudskillsboost.google/course_templates/638) | [Link](11%20Build%20a%20Website%20on%20Google%20Cloud/) |
+| 12| [Set Up a Google Cloud Network](https://www.cloudskillsboost.google/course_templates/641) | [Link](12%20Set%20Up%20a%20Google%20Cloud%20Network/) |
+| 13| [Store, Process, and Manage Data on Google Cloud - Console](https://www.cloudskillsboost.google/course_templates/658) | [Link](13%20Store,%20Process,%20and%20Manage%20Data%20on%20Google%20Cloud%20-%20Console/) |
+| 14| [Cloud Functions: 3 Ways](https://www.cloudskillsboost.google/course_templates/696?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](14%20Cloud%20Functions:%203%20Ways/) |
+| 15| [App Engine: 3 Ways](https://www.cloudskillsboost.google/course_templates/671?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](15%20App%20Engine:%203%20Ways/) |
+| 16| [Cloud Speech API: 3 Ways](https://www.cloudskillsboost.google/course_templates/700?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](16%20Cloud%20Speech%20API:%203%20Ways/) |
+| 17| [Monitoring in Google Cloud](https://www.cloudskillsboost.google/course_templates/747?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](17%20Monitoring%20in%20Google%20Cloud/) |
+| 18| [Analyze Speech and Language with Google APIs](https://www.cloudskillsboost.google/course_templates/634) | [Link](18%20Analyze%20Speech%20and%20Language%20with%20Google%20APIs/) |
+| 19| [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/course_templates/976?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](19%20Prompt%20Design%20in%20Vertex%20AI/) |
+| 20| [Develop GenAI Apps with Gemini and Streamlit](https://www.cloudskillsboost.google/course_templates/978) | [Link]() |
 | 21| Gen AI Arcade Game: Level 3 (please refer to link in your Enrollment email) | Link |
