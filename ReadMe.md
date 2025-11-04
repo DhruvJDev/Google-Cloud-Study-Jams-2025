@@ -28,5 +28,5 @@ Link -> Contain the how to complete that course.
 | 17| [Monitoring in Google Cloud](https://www.cloudskillsboost.google/course_templates/747?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](17%20Monitoring%20in%20Google%20Cloud/) |
 | 18| [Analyze Speech and Language with Google APIs](https://www.cloudskillsboost.google/course_templates/634) | [Link](18%20Analyze%20Speech%20and%20Language%20with%20Google%20APIs/) |
 | 19| [Prompt Design in Vertex AI](https://www.cloudskillsboost.google/course_templates/976?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator24) | [Link](19%20Prompt%20Design%20in%20Vertex%20AI/) |
-| 20| [Develop GenAI Apps with Gemini and Streamlit](https://www.cloudskillsboost.google/course_templates/978) | [Link]() |
+| 20| [Develop GenAI Apps with Gemini and Streamlit](https://www.cloudskillsboost.google/course_templates/978) | [Link](20%20Develop%20GenAI%20Apps%20with%20Gemini%20and%20Streamlit/) |
 | 21| Gen AI Arcade Game: Level 3 (please refer to link in your Enrollment email) | Link |
